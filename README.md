@@ -1,16 +1,5 @@
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "# I. Overview"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
     "- Student name: Isiah Cruz\n",
     "- Student pace: Part-Time\n",
     "- Flatiron project review date: October 28, 2020\n",
@@ -18,36 +7,14 @@
     "- Module: 4\n",
     "- Dataset: Sentiment Analysis /\n",
     "https://data.world/crowdflower/brands-and-product-emotions"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+ 
     "# II. Problem Statement & Project"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
     "- *Problem Statement:* Contributors evaluated tweets about multiple brands and products. The crowd was asked if the tweet expressed positive, negative, or no emotion towards a brand and/or product. If some emotion was expressed they were also asked to say which brand or product was the target of that emotion\n",
-    "\n",
-    "\n",
+ 
     "- *Project:* Build a model that can rate the sentiment of a Tweet based on its content."
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+ 
     "# III. Repository Contents"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
+
     "- **1) Importing**\n",
     "- **2) Data Cleaning (Null Values/De-Duplication, Stopwords)**\n",
     "- **3) Exploratory Data Analysis (Sentiment Distribution, Word Count, Word Clouds)**\n",
@@ -55,14 +22,6 @@
     "- **5) Modeling**\n",
     "- **6) Evaluation: Analyzing our model results and selecting the best model**\n",
     "- **7) Conclusion: Making business recommendations and describing our favorite model**"
-   ]
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "Python 3",
-   "language": "python",
-   "name": "python3"
   },
   "language_info": {
    "codemirror_mode": {
